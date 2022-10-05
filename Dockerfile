@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:latest
 
 ARG AUUID="780638ff-b1ac-4287-9ce8-0cb6f5406de9"
 ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page263/jackpiro.zip"
